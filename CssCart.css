@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(255, 255, 255);
+    margin-left: 40px;
+    margin-right: 40px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+.nav {
+    display: flex;
+
+
+}
+.nav h3 {
+    margin-right: 20px;
+}
+.store {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+
+}
+.store {
+    border: black;
+    border-radius: 20px;
+    border-style: solid;
+    padding-bottom: 700px;
+
+
+}
+.écran {
+    width: 72px;
+    height: 72px;
+}
+.cart {
+    margin-bottom: 100px;
+   
+}
+img.cola {
+    height: 72px;
+    width: 72px ;
+
+}
